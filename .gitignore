@@ -1,1 +1,3 @@
-.vs/**
+# ignore visual studio directory
+.vs/**/*
+/.vs/**/*
